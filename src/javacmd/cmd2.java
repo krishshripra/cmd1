@@ -9,6 +9,12 @@ public class cmd2 {
 		}else {
 			System.out.println("no");
 		}
+		String t="tiger";
+		if(s==t) {
+			System.out.println("yes");
+		}else {
+			System.out.println("no");
+		}
 
 	}
 
