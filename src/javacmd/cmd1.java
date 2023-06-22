@@ -7,6 +7,9 @@ public class cmd1 {
 		int b=20;
 		int c=a+b;
 		System.out.println(c);
+		short r=10;
+		int d=c+r;
+		System.out.println(d);
 
 	}
 
